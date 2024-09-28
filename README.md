@@ -31,7 +31,6 @@ The System will allow access only to authorized users with specific role. Depend
 2. SENDING MAIL- The user can send their composed mail along with the attachment using this module.
 3. RECEIVING MAIL- The receiver client can view the pop-up notification using receiving module.
 4. FORWARDING MAIL- The user can forward any mail which he has received.
-5. Facility of latest news updates.
 
 # User Characteristics
 1. User have elementary computer knowledge and the knowledge of use of Application.

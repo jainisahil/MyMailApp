@@ -20,7 +20,7 @@ import java.util.List;
 
 /**
  *
- * @author RISHABH
+ * @author SAHIL
  */
 public class RSSFrame extends javax.swing.JFrame {
 
